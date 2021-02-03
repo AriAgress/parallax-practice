@@ -8,7 +8,7 @@
   height: 500px;
 }
 
-.jumbotron {
+.jumbo-bg {
   background: none;
 }
 
@@ -34,3 +34,11 @@ color: white;
     text-align: center;
     font-size: 12px;
 }
+
+/* .jumbo-bg2 {
+width: 800px;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+} */
