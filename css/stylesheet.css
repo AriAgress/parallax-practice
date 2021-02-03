@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Open+Sans:wght@300&display=swap');
+
+.bg-img {
+  background-image: url(https://picsum.photos/1000);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  height: 500px;
+}
+
+.jumbotron {
+  background: none;
+}
+
+.h1{
+font-family: 'lobster', cursive;
+color: white;
+}
+
+.jumbotron-text{
+  font-family: 'lobster', cursive;
+  color: rgb(255, 255, 255, 0.9);
+  position: absolute;
+  top: 140px;
+  width: 100%;
+  text-align: center;
+}
+
+.btn-circle {
+    width: 35px;
+    height: 35px;
+    padding: 6px 0px;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 12px;
+}
